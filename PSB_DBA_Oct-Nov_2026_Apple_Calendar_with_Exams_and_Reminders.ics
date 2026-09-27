@@ -1,0 +1,494 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//PSB Academy DBA Timetable//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PSB DBA Oct-Nov 2026
+X-WR-TIMEZONE:Asia/Singapore
+BEGIN:VTIMEZONE
+TZID:Asia/Singapore
+X-LIC-LOCATION:Asia/Singapore
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:+08
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-1@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261001T120000
+DTEND;TZID=Asia/Singapore:20261001T150000
+SUMMARY:Macroeconomics — Lecture S01
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Koh Wee Nee
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-2@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261001T153000
+DTEND;TZID=Asia/Singapore:20261001T183000
+SUMMARY:Principles of Accounting — Lecture S01
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Poh Hock Christopher
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-3@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261005T120000
+DTEND;TZID=Asia/Singapore:20261005T150000
+SUMMARY:Principles of Accounting — Lecture S02
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Poh Hock Christopher
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-4@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261006T120000
+DTEND;TZID=Asia/Singapore:20261006T150000
+SUMMARY:Macroeconomics — Lecture S02
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Koh Wee Nee
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-5@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261008T083000
+DTEND;TZID=Asia/Singapore:20261008T113000
+SUMMARY:Principles of Accounting — Tutorial S03
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Poh Hock Christopher
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-6@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261009T083000
+DTEND;TZID=Asia/Singapore:20261009T113000
+SUMMARY:Marketing — Lecture S01
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Hui Jun Eldric
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-7@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261009T153000
+DTEND;TZID=Asia/Singapore:20261009T183000
+SUMMARY:Macroeconomics — Tutorial S03
+LOCATION:STEM Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Koh Wee Nee
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-8@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261012T083000
+DTEND;TZID=Asia/Singapore:20261012T113000
+SUMMARY:Marketing — Lecture S02
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Hui Jun Eldric
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-9@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261013T120000
+DTEND;TZID=Asia/Singapore:20261013T150000
+SUMMARY:Principles of Accounting — Lecture S04
+LOCATION:Online Learning
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Poh Hock Christopher
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-10@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261014T190000
+DTEND;TZID=Asia/Singapore:20261014T210000
+SUMMARY:SBM-IP EIM — Macroeconomics
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Koh Wee Nee
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-11@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261016T083000
+DTEND;TZID=Asia/Singapore:20261016T113000
+SUMMARY:Marketing — Tutorial S03
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Hui Jun Eldric
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-12@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261016T153000
+DTEND;TZID=Asia/Singapore:20261016T183000
+SUMMARY:Principles of Accounting — Lecture S05
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Poh Hock Christopher
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-13@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261019T120000
+DTEND;TZID=Asia/Singapore:20261019T150000
+SUMMARY:Marketing — Lecture S04
+LOCATION:Online Learning
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Hui Jun Eldric
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-14@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261019T153000
+DTEND;TZID=Asia/Singapore:20261019T183000
+SUMMARY:Macroeconomics — Lecture S04
+LOCATION:Online Learning
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Koh Wee Nee
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-15@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261019T190000
+DTEND;TZID=Asia/Singapore:20261019T210000
+SUMMARY:SBM-IP EIM — Principles of Accounting
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Lim Wei Yin
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-16@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261020T120000
+DTEND;TZID=Asia/Singapore:20261020T150000
+SUMMARY:Marketing — Lecture S05
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Hui Jun Eldric
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-17@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261021T083000
+DTEND;TZID=Asia/Singapore:20261021T113000
+SUMMARY:Principles of Accounting — Tutorial S06
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Poh Hock Christopher
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-18@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261023T153000
+DTEND;TZID=Asia/Singapore:20261023T183000
+SUMMARY:Macroeconomics — Lecture S05
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Koh Wee Nee
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-19@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261026T153000
+DTEND;TZID=Asia/Singapore:20261026T183000
+SUMMARY:Principles of Accounting — Lecture S07
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Poh Hock Christopher
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-20@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261027T153000
+DTEND;TZID=Asia/Singapore:20261027T183000
+SUMMARY:Macroeconomics — Tutorial S06
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Koh Wee Nee
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-21@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261028T153000
+DTEND;TZID=Asia/Singapore:20261028T183000
+SUMMARY:Marketing — Tutorial S06
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Hui Jun Eldric
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-22@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261102T120000
+DTEND;TZID=Asia/Singapore:20261102T150000
+SUMMARY:Principles of Accounting — Lecture S08
+LOCATION:Online Learning
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Poh Hock Christopher
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-23@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261103T120000
+DTEND;TZID=Asia/Singapore:20261103T150000
+SUMMARY:Macroeconomics — Lecture S07
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Koh Wee Nee
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-24@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261104T083000
+DTEND;TZID=Asia/Singapore:20261104T113000
+SUMMARY:Marketing — Lecture S07
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Hui Jun Eldric
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-25@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261105T083000
+DTEND;TZID=Asia/Singapore:20261105T113000
+SUMMARY:Principles of Accounting — Tutorial S09
+LOCATION:STEM Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Poh Hock Christopher
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-26@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261106T120000
+DTEND;TZID=Asia/Singapore:20261106T150000
+SUMMARY:Macroeconomics — Lecture S08
+LOCATION:Online Learning
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Koh Wee Nee
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-27@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261106T153000
+DTEND;TZID=Asia/Singapore:20261106T183000
+SUMMARY:Marketing — Lecture S08
+LOCATION:Online Learning
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Hui Jun Eldric
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-28@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261110T120000
+DTEND;TZID=Asia/Singapore:20261110T150000
+SUMMARY:Marketing — Tutorial S09
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Hui Jun Eldric
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-29@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261111T120000
+DTEND;TZID=Asia/Singapore:20261111T150000
+SUMMARY:Macroeconomics — Tutorial S09
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Koh Wee Nee
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-30@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261113T153000
+DTEND;TZID=Asia/Singapore:20261113T183000
+SUMMARY:Marketing — Lecture S10
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Hui Jun Eldric
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-31@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261116T120000
+DTEND;TZID=Asia/Singapore:20261116T150000
+SUMMARY:Principles of Accounting — Lecture S10
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Chiew Poh Hock Christopher
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-32@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261118T153000
+DTEND;TZID=Asia/Singapore:20261118T183000
+SUMMARY:Macroeconomics — Lecture S10
+LOCATION:Main Wing
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nLecturer/Tutor: Koh Wee Nee
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-33@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261125T090000
+DTEND;TZID=Asia/Singapore:20261125T120000
+SUMMARY:EXAM — Macroeconomics
+LOCATION:Exam room TBA
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nExam date/time from PSB timetable\; exam room allocation is announced separately.
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psb-dba-2026-v2-34@chatgpt
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Singapore:20261127T090000
+DTEND;TZID=Asia/Singapore:20261127T120000
+SUMMARY:EXAM — Principles of Accounting
+LOCATION:Exam room TBA
+DESCRIPTION:PSB Academy | Full Time Diploma in Business Administration\\nExam date/time from PSB timetable\; exam room allocation is announced separately.
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 hour before this PSB Academy event
+END:VALARM
+END:VEVENT
+END:VCALENDAR
